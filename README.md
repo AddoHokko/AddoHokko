@@ -2,6 +2,8 @@
 🔭 I’m currently working on Sparx-Maths-SpeedUp-GUI
 
 🌱 I’m currently learning Custom tkinter to make a nice GUI
+
+👯 I’m looking to collaborate on Sparx-Maths-SpeedUp-GUI
 <!--
 **ACuteCat24/ACuteCat24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
