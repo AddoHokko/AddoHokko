@@ -1,9 +1,9 @@
 ### Hi there, 👋I'm AddoHokko
-🔭 I’m currently working on          Sparx-Maths-SpeedUp-GUI  
+🔭 I’m currently working on creating a multiplayer game server
  
-🌱 I’m currently learning Custom tkinter to make a nice GUI
+🌱 I’m currently learning how to do low latency networking
 
-👯 I’m looking to collaborate on Sparx-Maths-SpeedUp-GUI
+👯 I’m looking to collaborate on any python projects
 
 💬 Ask me about anything pythonic
 
